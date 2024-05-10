@@ -151,6 +151,12 @@ nav .title span{
 
 }
 
+@media (max-width: 600px) {
+    nav .links ul li a {
+        font-size: 1.5rem;
+    }
+}
+
 
 @media (max-width: 460px){
     nav .title h1{
