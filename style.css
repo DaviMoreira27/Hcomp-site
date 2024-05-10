@@ -109,6 +109,9 @@ hr, .vertical-line{
     gap: 1rem;
 }
 
+
+
+
 @media (max-width: 700px) {
     .row-title{
         display: flex;
