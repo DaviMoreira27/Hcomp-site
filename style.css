@@ -113,6 +113,18 @@ hr, .vertical-line{
 }
 
 
+.container-referencias{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8rem;
+}
+
+
+.container-referencias h1{
+    font-size: 3rem;
+}
+
 @media (max-width: 700px) {
     .row-title{
         display: flex;
